@@ -1,0 +1,13 @@
+comandes per fer funcionar el laravel
+
+
+
+Instalar -->
+composer global require laravel/installer     
+
+Serve -->
+php artisan serve --host 0.0.0.0
+
+
+Paquets chidos -->
+yaml-front-matter
